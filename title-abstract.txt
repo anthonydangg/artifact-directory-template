@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Facial Expression Recognition: Predicting Early Signs of Psychopathological Disease Among Children
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Information from emotions can greatly benefit researchers as it can be used as an informative predictor for mental health symptoms. Many researchers may find themselves needing to collect emotional data from facial expressions, however, there is no universal standard. We developed a web app that researchers can use to easily gather data about emotions for research purposes.
+
